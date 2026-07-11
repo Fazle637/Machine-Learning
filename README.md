@@ -1,5 +1,4 @@
 # Machine-Learning
-🚀 Machine Learning Journey
 Welcome to my Machine Learning & Data Science learning repository.
 
 📖 About
